@@ -1,0 +1,53 @@
+.logo-sec{
+    height: 40px;    
+    padding: 0px 50px 0px 0px;
+    box-sizing: border-box;
+}
+
+.main-logo{
+    height: 100%;
+}
+
+.nav-link{
+    min-width: 70px; 
+}
+
+.login-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.copyright-sec{
+    padding: 15px;
+}
+
+.fix-on-top{
+    
+    position: absolute;
+    width: 100%;
+    top: 0px;   
+}
+
+.fix-on-bottom{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;   
+    left: 0;
+}
+
+/*//////////////////////////////////////////////*/
+
+.main-banner{
+    width: 100vw;
+    height: 90vh;
+   background-color: #d9d9d9;
+     
+}
+
+.main-banner img{
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,77 @@
+.logo-sec{
+    height: 40px;    
+    padding: 0px 50px 0px 0px;
+    box-sizing: border-box;
+}
+
+.main-logo{
+    height: 100%;
+}
+
+.nav-link{
+    min-width: 70px; 
+}
+
+.login-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.copyright-sec{
+    padding: 15px;
+}
+
+.fix-on-top{
+    /*background-color: red;*/
+    position: absolute;
+    width: 100%;
+    top: 0px;   
+}
+
+.fix-on-bottom{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;   
+}
+
+.card-task{
+    margin: 15px 0px;
+    border: solid 1px #d4d4d4;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.card-task-header{
+    margin-bottom: 25px;
+}
+
+.card-task-details{
+    margin-bottom: 25px;
+}
+
+.card-task-footer{
+    margin: 0px;
+}
+
+.card-task h2{
+    font-size: 1.2rem;
+    font-weight: lighter;    
+}
+
+.card-task-duedate{
+    font-weight: bold;
+}
+
+.card-task-progress{
+    text-align: end;
+    font-size: 1.2rem;
+}
+
+.height{
+    min-height: 81vh;
+}
+
+
+

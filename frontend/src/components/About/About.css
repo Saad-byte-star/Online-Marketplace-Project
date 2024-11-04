@@ -1,0 +1,43 @@
+.about_img{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../assets/about.jpg');
+    width: 100vw;
+    height: 60vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about_des{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    color: white;
+    width: 30rem;
+}
+.about_des h2{
+  color: #00B074;
+  font-weight: 600;
+}
+.about_first{
+    width: 8rem;
+    height: 15px;
+    background-color: #00B074;
+    position: absolute;
+    top: 8.1rem;
+    left: 6.1rem;
+}
+.about_second{
+    width: 1rem;
+    height: 20rem;
+    background-color: #00B074;
+    position: absolute;
+    top: 9rem;
+    left: 6.1rem;
+}
+.about_third{
+    width: 8rem;
+    height: 15px;
+    background-color: #00B074;
+    position: absolute;
+    top: 28.5rem;
+    left: 6.1rem;
+}

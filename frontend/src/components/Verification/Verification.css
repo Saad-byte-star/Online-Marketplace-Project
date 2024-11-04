@@ -1,0 +1,14 @@
+.verification-input {
+    width: 50px;  /* Adjust the width of each input field */
+    height: 50px; /* Adjust the height of each input field */
+    text-align: center;
+    font-size: 24px; /* Adjust font size */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .verification-input:focus {
+    border-color: #007bff; /* Change border color on focus */
+    outline: none;
+  }
+  
